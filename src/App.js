@@ -2,7 +2,7 @@ import './index.css';
 
 function App() {
   return (
-	  <div class="min-h-screen Gainsboro py-6 flex flex-col justify-center sm:py-12">
+	  <div class="min-h-screen Gainsboro py-7 flex flex-col justify-center sm:py-12">
 	    <div class="relative py-3 w-2/6 sm:max-w-xl sm:mx-auto">
 	      <div class="absolute inset-0 SpaceCadet shadow-lg transform rotate-24 sm:rounded-3xl"></div>
 	      <div class="absolute inset-0 CadetBlue shadow-lg transform rotate-12 sm:rounded-3xl"></div>
@@ -26,5 +26,6 @@ function App() {
 	</div>
   );
 }
+
 
 export default App;
